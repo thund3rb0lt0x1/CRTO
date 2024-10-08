@@ -5,8 +5,6 @@
  **Course Link** : [https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://training.zeropointsecurity.co.uk/?ref=dd89ad
 )
 
- **Compiled By** : **Emanuele Picariello ( x: https://x.com/EmanuelePicari5 | YouTube: https://www.youtube.com/watch?v=rjY884Pamig )**
-
 
  **Disclaimer** : This cheat sheet has been compiled from multiple sources with the objective of aiding fellow pentesters and red teamers in their learning. The credit for all the tools and techniques belongs to their original authors. I have added a reference to the original source at the bottom of this document.  
 
